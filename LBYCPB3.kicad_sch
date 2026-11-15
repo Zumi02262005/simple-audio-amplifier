@@ -596,7 +596,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SMAJ10A")
-		(at 44.45 27.94 270)
+		(at 44.45 29.21 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -607,7 +607,7 @@
 		(fields_autoplaced yes)
 		(uuid "dab8b15b-17c6-4974-8b2e-ee1cf4579260")
 		(property "Reference" "D1"
-			(at 46.99 26.6699 90)
+			(at 46.99 27.9399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -618,7 +618,7 @@
 			)
 		)
 		(property "Value" "SMAJ10A"
-			(at 46.99 29.2099 90)
+			(at 46.99 30.4799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -629,7 +629,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 39.37 27.94 0)
+			(at 39.37 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -640,7 +640,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet"
-			(at 44.45 26.67 0)
+			(at 44.45 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -651,7 +651,7 @@
 			)
 		)
 		(property "Description" "400W unidirectional Transient Voltage Suppressor, 10.0Vr, SMA(DO-214AC)"
-			(at 44.45 27.94 0)
+			(at 44.45 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
