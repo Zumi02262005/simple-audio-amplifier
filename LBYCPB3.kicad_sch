@@ -525,7 +525,7 @@
 		(dnp no)
 		(uuid "965dea90-8345-437e-adcc-295e4fb9c680")
 		(property "Reference" "J1"
-			(at 19.05 24.1299 0)
+			(at 22.352 21.082 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -536,7 +536,7 @@
 			)
 		)
 		(property "Value" "USB-C PD module (9V)"
-			(at 35.052 30.988 0)
+			(at 37.084 30.988 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -596,7 +596,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SMAJ10A")
-		(at 36.83 27.94 270)
+		(at 43.18 27.94 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -607,7 +607,7 @@
 		(fields_autoplaced yes)
 		(uuid "dab8b15b-17c6-4974-8b2e-ee1cf4579260")
 		(property "Reference" "D1"
-			(at 39.37 26.6699 90)
+			(at 45.72 26.6699 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -618,7 +618,7 @@
 			)
 		)
 		(property "Value" "SMAJ10A"
-			(at 39.37 29.2099 90)
+			(at 45.72 29.2099 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -629,7 +629,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 31.75 27.94 0)
+			(at 38.1 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -640,7 +640,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet"
-			(at 36.83 26.67 0)
+			(at 43.18 26.67 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -651,7 +651,7 @@
 			)
 		)
 		(property "Description" "400W unidirectional Transient Voltage Suppressor, 10.0Vr, SMA(DO-214AC)"
-			(at 36.83 27.94 0)
+			(at 43.18 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
