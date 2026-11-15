@@ -166,7 +166,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 24.13 36.83 180)
+		(at 26.67 30.48 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -177,7 +177,7 @@
 		(fields_autoplaced yes)
 		(uuid "965dea90-8345-437e-adcc-295e4fb9c680")
 		(property "Reference" "J1"
-			(at 24.13 27.94 0)
+			(at 26.67 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -186,8 +186,8 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x02"
-			(at 24.13 30.48 0)
+		(property "Value" "USB-C PD module (9V)"
+			(at 26.67 24.13 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -197,7 +197,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 24.13 36.83 0)
+			(at 26.67 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -208,7 +208,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 24.13 36.83 0)
+			(at 26.67 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -219,7 +219,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 24.13 36.83 0)
+			(at 26.67 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
