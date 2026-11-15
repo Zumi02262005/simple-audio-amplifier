@@ -166,7 +166,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 26.67 30.48 180)
+		(at 26.67 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -177,23 +177,25 @@
 		(fields_autoplaced yes)
 		(uuid "965dea90-8345-437e-adcc-295e4fb9c680")
 		(property "Reference" "J1"
-			(at 26.67 21.59 0)
+			(at 29.21 30.4799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Value" "USB-C PD module (9V)"
-			(at 26.67 24.13 0)
+			(at 29.21 33.0199 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
