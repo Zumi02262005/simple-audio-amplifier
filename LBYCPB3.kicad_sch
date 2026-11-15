@@ -1554,7 +1554,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 26.67) (xy 121.92 21.59)
+			(xy 119.38 26.67) (xy 119.38 21.59)
 		)
 		(stroke
 			(width 0)
@@ -1564,7 +1564,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 34.29) (xy 121.92 38.1)
+			(xy 119.38 34.29) (xy 119.38 38.1)
 		)
 		(stroke
 			(width 0)
@@ -1574,7 +1574,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 21.59) (xy 105.41 21.59)
+			(xy 119.38 21.59) (xy 105.41 21.59)
 		)
 		(stroke
 			(width 0)
@@ -1819,7 +1819,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED_Small")
-		(at 121.92 40.64 90)
+		(at 119.38 40.64 90)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1830,7 +1830,7 @@
 		(fields_autoplaced yes)
 		(uuid "203dd297-fea4-4107-bada-c894103970e8")
 		(property "Reference" "D1"
-			(at 124.46 39.3064 90)
+			(at 121.92 39.3064 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1841,7 +1841,7 @@
 			)
 		)
 		(property "Value" "LED_Small"
-			(at 124.46 41.8464 90)
+			(at 121.92 41.8464 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1852,7 +1852,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 121.92 40.64 90)
+			(at 119.38 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1863,7 +1863,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 40.64 90)
+			(at 119.38 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1874,7 +1874,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode, small symbol"
-			(at 121.92 40.64 0)
+			(at 119.38 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1885,7 +1885,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 121.92 40.64 0)
+			(at 119.38 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2321,7 +2321,7 @@
 	)
 	(symbol
 		(lib_id "power:+9V")
-		(at 120.65 19.05 0)
+		(at 129.54 19.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2332,7 +2332,7 @@
 		(fields_autoplaced yes)
 		(uuid "cc5d39ee-a3da-407a-a0f4-fe19c6f90f64")
 		(property "Reference" "#PWR05"
-			(at 120.65 22.86 0)
+			(at 129.54 22.86 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2343,7 +2343,7 @@
 			)
 		)
 		(property "Value" "+9V"
-			(at 120.65 13.97 0)
+			(at 129.54 13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2353,7 +2353,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.65 19.05 0)
+			(at 129.54 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2364,7 +2364,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 120.65 19.05 0)
+			(at 129.54 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2375,7 +2375,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+9V\""
-			(at 120.65 19.05 0)
+			(at 129.54 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2399,7 +2399,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 121.92 30.48 0)
+		(at 119.38 30.48 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2410,7 +2410,7 @@
 		(fields_autoplaced yes)
 		(uuid "d6c6c71b-7164-43e2-a98a-713d77fb5acc")
 		(property "Reference" "R4"
-			(at 124.46 29.2099 0)
+			(at 121.92 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2421,7 +2421,7 @@
 			)
 		)
 		(property "Value" "1.2k"
-			(at 124.46 31.7499 0)
+			(at 121.92 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2432,7 +2432,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 120.142 30.48 90)
+			(at 117.602 30.48 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2443,7 +2443,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 121.92 30.48 0)
+			(at 119.38 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2454,7 +2454,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 121.92 30.48 0)
+			(at 119.38 30.48 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
