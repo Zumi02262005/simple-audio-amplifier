@@ -1829,7 +1829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "203dd297-fea4-4107-bada-c894103970e8")
-		(property "Reference" "D1"
+		(property "Reference" "D3"
 			(at 121.92 39.3064 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1840,7 +1840,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_Small"
+		(property "Value" "Green"
 			(at 121.92 41.8464 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1904,7 +1904,7 @@
 		(instances
 			(project "LBYCPB3"
 				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
-					(reference "D1")
+					(reference "D3")
 					(unit 1)
 				)
 			)
