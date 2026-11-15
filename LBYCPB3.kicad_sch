@@ -1095,7 +1095,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_SPDT"
+		(property "Value" "SS12D00"
 			(at 71.12 17.78 0)
 			(show_name no)
 			(do_not_autoplace no)
