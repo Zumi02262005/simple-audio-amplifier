@@ -797,10 +797,6 @@
 		(uuid "691d1533-7887-4a63-bd42-94c15f67d657")
 	)
 	(no_connect
-		(at 78.74 27.94)
-		(uuid "170702e6-7fcf-4924-9f64-cab16ea46411")
-	)
-	(no_connect
 		(at 76.2 26.67)
 		(uuid "194c8bcd-108a-4f7b-b278-b63a853fe39b")
 	)
