@@ -2077,7 +2077,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d6c6c71b-7164-43e2-a98a-713d77fb5acc")
-		(property "Reference" "R1"
+		(property "Reference" "R4"
 			(at 124.46 29.2099 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2088,7 +2088,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "1.2k"
 			(at 124.46 31.7499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2141,7 +2141,7 @@
 		(instances
 			(project "LBYCPB3"
 				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
-					(reference "R1")
+					(reference "R4")
 					(unit 1)
 				)
 			)
