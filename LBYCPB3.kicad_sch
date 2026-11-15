@@ -1240,7 +1240,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dab8b15b-17c6-4974-8b2e-ee1cf4579260")
-		(property "Reference" "D1"
+		(property "Reference" "D4"
 			(at 45.72 27.9399 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1304,7 +1304,7 @@
 		(instances
 			(project "LBYCPB3"
 				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
-					(reference "D1")
+					(reference "D4")
 					(unit 1)
 				)
 			)
