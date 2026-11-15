@@ -1322,7 +1322,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100 uF / 25 V"
+		(property "Value" "0.1 uF"
 			(at 107.95 26.1238 0)
 			(show_name no)
 			(do_not_autoplace no)
