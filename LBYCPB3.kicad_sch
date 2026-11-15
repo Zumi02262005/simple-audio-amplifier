@@ -1000,6 +1000,26 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 21.59) (xy 85.09 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "719e654f-7f02-4137-9d92-6da2e752aea0")
+	)
+	(wire
+		(pts
+			(xy 76.2 21.59) (xy 85.09 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90153c26-83ef-40e9-b523-3496900bde62")
+	)
+	(wire
+		(pts
 			(xy 54.61 24.13) (xy 66.04 24.13)
 		)
 		(stroke
@@ -1170,6 +1190,84 @@
 			(project "LBYCPB3"
 				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
 					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 85.09 27.94 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "199ae914-3549-4589-9834-6f35f1fbdea8")
+		(property "Reference" "#PWR03"
+			(at 85.09 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 85.09 33.02 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 85.09 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 85.09 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 85.09 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "8a832d2e-3911-460e-a575-137ac9d66457")
+		)
+		(instances
+			(project "LBYCPB3"
+				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -1350,7 +1448,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "877f8d86-eea5-48af-964d-56436bf27112")
-		(property "Reference" "C1"
+		(property "Reference" "C14"
 			(at 87.63 23.5838 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1414,7 +1512,7 @@
 		(instances
 			(project "LBYCPB3"
 				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
-					(reference "C1")
+					(reference "C14")
 					(unit 1)
 				)
 			)
