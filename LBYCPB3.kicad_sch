@@ -600,6 +600,12 @@
 			(embedded_fonts no)
 		)
 	)
+	(junction
+		(at 43.18 24.13)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20a1c444-b7aa-4590-bc34-d71d7923eafc")
+	)
 	(wire
 		(pts
 			(xy 43.18 24.13) (xy 43.18 25.4)
@@ -609,6 +615,16 @@
 			(type default)
 		)
 		(uuid "6dbfbf8a-b921-4c0e-b831-b6bd5255830e")
+	)
+	(wire
+		(pts
+			(xy 43.18 24.13) (xy 55.88 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dcd1d0b-0eda-4ada-b847-f8e9f5557a90")
 	)
 	(wire
 		(pts
@@ -799,7 +815,7 @@
 				)
 			)
 		)
-		(property "Value" "FerriteBead_Small"
+		(property "Value" "600R100MHz"
 			(at 58.3819 20.32 90)
 			(show_name no)
 			(do_not_autoplace no)
