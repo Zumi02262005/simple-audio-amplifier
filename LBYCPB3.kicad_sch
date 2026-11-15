@@ -433,9 +433,29 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 43.18 24.13) (xy 43.18 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6dbfbf8a-b921-4c0e-b831-b6bd5255830e")
+	)
+	(wire
+		(pts
+			(xy 26.67 24.13) (xy 43.18 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b941ee79-d648-4ec8-8059-081c8c68c25f")
+	)
 	(symbol
 		(lib_id "power:GND")
-		(at 43.18 31.75 0)
+		(at 43.18 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -446,7 +466,7 @@
 		(fields_autoplaced yes)
 		(uuid "1139a740-ec8e-4d6b-bf81-635b0a015c2a")
 		(property "Reference" "#PWR02"
-			(at 43.18 38.1 0)
+			(at 43.18 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -457,7 +477,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 43.18 36.83 0)
+			(at 43.18 38.1 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -467,7 +487,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 43.18 31.75 0)
+			(at 43.18 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -478,7 +498,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 43.18 31.75 0)
+			(at 43.18 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -489,7 +509,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 43.18 31.75 0)
+			(at 43.18 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -674,7 +694,7 @@
 	)
 	(symbol
 		(lib_id "Diode:SMAJ10A")
-		(at 43.18 27.94 270)
+		(at 43.18 29.21 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -685,7 +705,7 @@
 		(fields_autoplaced yes)
 		(uuid "dab8b15b-17c6-4974-8b2e-ee1cf4579260")
 		(property "Reference" "D1"
-			(at 45.72 26.6699 90)
+			(at 45.72 27.9399 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -696,7 +716,7 @@
 			)
 		)
 		(property "Value" "SMAJ10A"
-			(at 45.72 29.2099 90)
+			(at 45.72 30.4799 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -707,7 +727,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SMA"
-			(at 38.1 27.94 0)
+			(at 38.1 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -718,7 +738,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=75e32973-b177-4ee3-a0ff-cedaf1abdb93&filename=smaj-datasheet"
-			(at 43.18 26.67 0)
+			(at 43.18 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -729,7 +749,7 @@
 			)
 		)
 		(property "Description" "400W unidirectional Transient Voltage Suppressor, 10.0Vr, SMA(DO-214AC)"
-			(at 43.18 27.94 0)
+			(at 43.18 29.21 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
