@@ -11572,7 +11572,7 @@
 		(uuid "85f9068e-4d05-4524-b032-51aec46deb37")
 	)
 	(gr_text "Pajarillo\nTolentino\nCudo\nOng"
-		(at 121.2 53.8 0)
+		(at 121.2 53.4 0)
 		(layer "B.Cu")
 		(uuid "a2a6679f-ef66-4abd-81b5-8ef3e086adb5")
 		(effects
