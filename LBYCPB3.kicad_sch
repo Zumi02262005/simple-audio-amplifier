@@ -2964,7 +2964,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 133.35 62.23 0)
+		(at 133.35 60.96 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2975,7 +2975,7 @@
 		(fields_autoplaced yes)
 		(uuid "50e66f29-10dc-47d5-afe2-f549def910c8")
 		(property "Reference" "R3"
-			(at 135.89 60.9599 0)
+			(at 135.89 59.6899 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2986,7 +2986,7 @@
 			)
 		)
 		(property "Value" "10R"
-			(at 135.89 63.4999 0)
+			(at 135.89 62.2299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2997,7 +2997,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 133.35 62.23 0)
+			(at 133.35 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3008,7 +3008,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 62.23 0)
+			(at 133.35 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3019,7 +3019,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 133.35 62.23 0)
+			(at 133.35 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3046,7 +3046,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 133.35 71.12 0)
+		(at 133.35 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3057,7 +3057,7 @@
 		(fields_autoplaced yes)
 		(uuid "522a9afd-3e8c-4568-8421-8b69c316a5e2")
 		(property "Reference" "C4"
-			(at 135.89 69.8562 0)
+			(at 135.89 68.5862 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3068,7 +3068,7 @@
 			)
 		)
 		(property "Value" "47nF"
-			(at 135.89 72.3962 0)
+			(at 135.89 71.1262 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3079,7 +3079,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 133.35 71.12 0)
+			(at 133.35 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3090,7 +3090,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 133.35 71.12 0)
+			(at 133.35 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3101,7 +3101,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 133.35 71.12 0)
+			(at 133.35 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3774,6 +3774,84 @@
 			(project "LBYCPB3"
 				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 133.35 73.66 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e4a12c7b-815a-43d9-ab2c-b8ec01c4bcf4")
+		(property "Reference" "#PWR010"
+			(at 133.35 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 133.35 78.74 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 133.35 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 133.35 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 133.35 73.66 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "46803e57-5988-42d3-be08-00325d93827d")
+		)
+		(instances
+			(project "LBYCPB3"
+				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
