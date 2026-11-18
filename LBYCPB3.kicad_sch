@@ -1678,7 +1678,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 109.22 68.58 0)
+		(at 109.22 43.18 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1689,29 +1689,29 @@
 		(fields_autoplaced yes)
 		(uuid "fa338393-5b22-4e69-bb0d-1cc382aebc95")
 		(property "Reference" "C1"
-			(at 111.76 66.7638 0)
+			(at 111.76 42.456 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "100uF 25V"
-			(at 111.76 69.3038 0)
+			(at 111.76 44.996 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 109.22 68.58 0)
+			(at 109.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1722,7 +1722,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 109.22 68.58 0)
+			(at 109.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1733,7 +1733,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor, small symbol"
-			(at 109.22 68.58 0)
+			(at 109.22 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
