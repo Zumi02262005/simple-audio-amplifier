@@ -2843,6 +2843,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 29 0 255 1)
 		)
 		(uuid "8f984f70-6e21-415c-acd3-f8682ccd8fa5")
 	)
