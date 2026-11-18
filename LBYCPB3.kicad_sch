@@ -2528,7 +2528,7 @@
 	(junction
 		(at 41.91 27.94)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 255 0 4 1)
 		(uuid "baf35999-d0bc-4cdb-a135-9f5a34d07fa8")
 	)
 	(junction
@@ -2647,7 +2647,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 255 0 6 1)
+			(color 255 0 4 1)
 		)
 		(uuid "49a01524-84d0-4bac-874e-cedffcf53e62")
 	)
@@ -2794,6 +2794,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 4 1)
 		)
 		(uuid "8005e195-e766-44ed-ad2a-2b68965d6452")
 	)
@@ -2814,6 +2815,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 4 1)
 		)
 		(uuid "833f3496-d5d5-441e-bc90-fa4e66e8b893")
 	)
@@ -2918,7 +2920,7 @@
 		(stroke
 			(width 0)
 			(type default)
-			(color 255 0 6 1)
+			(color 255 0 4 1)
 		)
 		(uuid "c7314d64-bfe1-4e2d-b554-5c83e04e9caf")
 	)
