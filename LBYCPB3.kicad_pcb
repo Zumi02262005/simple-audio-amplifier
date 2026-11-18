@@ -10422,7 +10422,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 0 2.38 0)
+			(at 0 2.6 0)
 			(layer "F.Fab")
 			(uuid "2586f2a5-bf17-48aa-83aa-c778ec9a4263")
 			(effects
