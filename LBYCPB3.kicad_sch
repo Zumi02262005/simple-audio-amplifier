@@ -1358,7 +1358,7 @@
 				)
 			)
 		)
-		(property "Value" "Battery_Cell"
+		(property "Value" "+9V"
 			(at 75.6285 22.86 90)
 			(show_name no)
 			(do_not_autoplace no)
