@@ -2514,6 +2514,12 @@
 		(uuid "395aca3d-1cf8-46b3-8a3a-31b88e20c900")
 	)
 	(junction
+		(at 86.36 53.34)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69fd60c7-38bf-4c73-8726-7237cc644921")
+	)
+	(junction
 		(at 74.93 27.94)
 		(diameter 0)
 		(color 16 0 255 1)
@@ -2622,7 +2628,7 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 53.34) (xy 93.98 53.34)
+			(xy 83.82 53.34) (xy 86.36 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2714,6 +2720,16 @@
 			(color 255 0 6 1)
 		)
 		(uuid "59ab6786-5744-4d85-8899-64ca5363a72c")
+	)
+	(wire
+		(pts
+			(xy 86.36 53.34) (xy 86.36 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5b151644-01f9-4a83-8d20-b8f10fa07c27")
 	)
 	(wire
 		(pts
@@ -2822,6 +2838,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 69.85) (xy 86.36 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f984f70-6e21-415c-acd3-f8682ccd8fa5")
+	)
+	(wire
+		(pts
 			(xy 71.12 48.26) (xy 71.12 55.88)
 		)
 		(stroke
@@ -2913,6 +2939,16 @@
 			(color 7 0 255 1)
 		)
 		(uuid "f122f7fa-6b0a-475f-bab5-7001d994670f")
+	)
+	(wire
+		(pts
+			(xy 86.36 53.34) (xy 93.98 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f428c914-1b7f-4599-ae97-9596a983d0af")
 	)
 	(wire
 		(pts
@@ -4557,6 +4593,84 @@
 			(project "LBYCPB3"
 				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
 					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 86.36 91.44 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "86adcfd7-e227-4faf-be35-bd754e5372bb")
+		(property "Reference" "#PWR013"
+			(at 86.36 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 86.36 96.52 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 86.36 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "6da63848-0c55-4215-b2a1-a4b9927b9d3c")
+		)
+		(instances
+			(project "LBYCPB3"
+				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
