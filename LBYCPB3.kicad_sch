@@ -2138,7 +2138,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "10R"
 			(at 134.62 66.0399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2299,7 +2299,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "47nF"
 			(at 135.89 76.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
