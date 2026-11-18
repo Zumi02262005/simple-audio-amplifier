@@ -2096,6 +2096,16 @@
 	)
 	(wire
 		(pts
+			(xy 85.09 50.8) (xy 95.25 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49309469-4116-42a5-8616-850e702b3e29")
+	)
+	(wire
+		(pts
 			(xy 60.96 25.4) (xy 66.04 25.4)
 		)
 		(stroke
@@ -3974,7 +3984,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Small")
-		(at 81.28 55.88 0)
+		(at 82.55 50.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3985,7 +3995,7 @@
 		(fields_autoplaced yes)
 		(uuid "b8043515-f57d-4f58-ace0-7633f052c894")
 		(property "Reference" "RV2"
-			(at 78.74 54.6099 0)
+			(at 80.01 49.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3996,7 +4006,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 78.74 57.1499 0)
+			(at 80.01 52.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4007,7 +4017,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 81.28 55.88 0)
+			(at 82.55 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4018,7 +4028,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 81.28 55.88 0)
+			(at 82.55 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4029,7 +4039,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 81.28 55.88 0)
+			(at 82.55 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4040,7 +4050,7 @@
 			)
 		)
 		(property "Sim.Device" "R"
-			(at 81.28 55.88 0)
+			(at 82.55 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4051,7 +4061,7 @@
 			)
 		)
 		(property "Sim.Type" "POT"
-			(at 81.28 55.88 0)
+			(at 82.55 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4062,7 +4072,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
-			(at 81.28 55.88 0)
+			(at 82.55 50.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
