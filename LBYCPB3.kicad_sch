@@ -5017,7 +5017,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical"
 			(at 81.28 53.34 0)
 			(hide yes)
 			(show_name no)
