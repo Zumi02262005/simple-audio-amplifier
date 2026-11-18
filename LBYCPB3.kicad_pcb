@@ -11571,10 +11571,10 @@
 		(layer "Edge.Cuts")
 		(uuid "85f9068e-4d05-4524-b032-51aec46deb37")
 	)
-	(gr_text "Pajarillo\nTolentino\nCudo\nOng"
-		(at 121.2 53.8 0)
+	(gr_text "LBYCPB3\nE26"
+		(at 121 63 0)
 		(layer "B.Cu")
-		(uuid "a2a6679f-ef66-4abd-81b5-8ef3e086adb5")
+		(uuid "6426f551-1574-4aaa-9069-35ca28ac79e3")
 		(effects
 			(font
 				(size 1.5 1.5)
@@ -11584,10 +11584,10 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "LBYCPB3\nE26"
-		(at 121.2 63 0)
+	(gr_text "Pajarillo\nTolentino\nCudo\nOng"
+		(at 121.2 53.8 0)
 		(layer "B.Cu")
-		(uuid "6426f551-1574-4aaa-9069-35ca28ac79e3")
+		(uuid "a2a6679f-ef66-4abd-81b5-8ef3e086adb5")
 		(effects
 			(font
 				(size 1.5 1.5)
