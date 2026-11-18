@@ -4539,7 +4539,7 @@
 			)
 		)
 		(property "Value" "Right Audio"
-			(at 0 2.38 0)
+			(at 0 2.6 0)
 			(layer "F.Fab")
 			(uuid "e24afa5c-457e-400f-ab35-c71ab0275468")
 			(effects
@@ -10652,7 +10652,7 @@
 			)
 		)
 		(property "Value" "Left Audio"
-			(at 0 2.38 0)
+			(at 0 2.6 0)
 			(layer "F.Fab")
 			(uuid "088bcf7c-b73c-48c7-ac25-d9e7ea70251b")
 			(effects
