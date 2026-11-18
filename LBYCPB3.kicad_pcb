@@ -130,7 +130,7 @@
 	(footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "04789a39-2d71-4946-b9d3-fad8bdd6e1d8")
-		(at 97.955 46.337499 -90)
+		(at 89.6 36.2 -90)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C6"
@@ -8392,7 +8392,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "cd0b995b-a5d2-42a8-88bd-c28628c6cb49")
-		(at 87.355 48.019879 90)
+		(at 128.2 51.5 90)
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C2"
@@ -9924,7 +9924,7 @@
 	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical"
 		(layer "F.Cu")
 		(uuid "de353f8c-71cf-4d7c-a214-074fb2507919")
-		(at 108.755 57.717499)
+		(at 97.2 56.28)
 		(descr "Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf")
 		(tags "Potentiometer vertical Bourns 3386P")
 		(property "Reference" "RV1"
