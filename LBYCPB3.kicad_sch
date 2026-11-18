@@ -895,6 +895,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 45.72) (xy 109.22 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "664bfe7a-b9cc-412c-9564-e8a1a37355eb")
+	)
+	(wire
+		(pts
 			(xy 78.74 53.34) (xy 101.6 53.34)
 		)
 		(stroke
@@ -912,6 +922,16 @@
 			(type default)
 		)
 		(uuid "72fbe87f-c5a8-49a0-a839-bd8fea2e64fc")
+	)
+	(wire
+		(pts
+			(xy 109.22 35.56) (xy 109.22 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dccba75-35b8-4e05-bb89-6cc5fdb22efd")
 	)
 	(wire
 		(pts
@@ -1671,6 +1691,84 @@
 			(project "LBYCPB3"
 				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 109.22 35.56 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d5c57333-2f5c-4d07-bc21-29c89a1e91a7")
+		(property "Reference" "#PWR04"
+			(at 109.22 29.21 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 109.22 30.48 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 109.22 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 109.22 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 109.22 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "05ffae40-7dc1-4df1-a45f-7ed7c4f1b92e")
+		)
+		(instances
+			(project "LBYCPB3"
+				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
