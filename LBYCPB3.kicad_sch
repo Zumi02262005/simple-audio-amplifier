@@ -2162,7 +2162,7 @@
 	(junction
 		(at 76.2 25.4)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 16 0 255 1)
 		(uuid "9aa21144-e338-43be-8e7d-0eabcbbe02ce")
 	)
 	(junction
@@ -2192,6 +2192,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 16 0 255 1)
 		)
 		(uuid "0a1a204e-f58d-41a7-a777-5367f0abbbfe")
 	)
