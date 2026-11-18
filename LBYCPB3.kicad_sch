@@ -2162,7 +2162,7 @@
 	(junction
 		(at 63.5 25.4)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 255 0 13 1)
 		(uuid "ac41bf2f-0dea-4949-8e39-ebf7c05d7786")
 	)
 	(no_connect
