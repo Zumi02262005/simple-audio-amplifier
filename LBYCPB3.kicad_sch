@@ -3898,10 +3898,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "6fe98a1e-d82a-48f9-af5a-893828cd8c61")
 		(property "Reference" "C6"
-			(at 99.06 36.8362 0)
+			(at 97.028 39.116 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3912,7 +3911,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 99.06 39.3762 0)
+			(at 97.028 41.148 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
