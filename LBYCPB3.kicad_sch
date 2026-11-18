@@ -1780,7 +1780,7 @@
 				)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "1000uF 25V"
 			(at 143.764 51.308 90)
 			(show_name no)
 			(do_not_autoplace no)
