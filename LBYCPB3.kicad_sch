@@ -2035,7 +2035,7 @@
 	(junction
 		(at 100.33 34.29)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 255 13 0 1)
 		(uuid "29658ffb-5ce3-4931-88ba-e117ed41a99e")
 	)
 	(junction
