@@ -4976,7 +4976,7 @@
 		(dnp no)
 		(uuid "b8043515-f57d-4f58-ace0-7633f052c894")
 		(property "Reference" "RV2"
-			(at 86.868 55.118 0)
+			(at 85.852 55.372 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4987,7 +4987,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 86.614 57.404 0)
+			(at 85.852 57.912 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
