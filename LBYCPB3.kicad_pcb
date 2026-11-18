@@ -2436,7 +2436,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
 		(layer "F.Cu")
 		(uuid "4376d196-0261-4269-8e4e-e4ab4c645040")
-		(at 87 57.6 90)
+		(at 87.06 53.86 90)
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, diameter=5mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm diameter 5mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C5"
@@ -8078,7 +8078,7 @@
 	(footprint "Package_DIP:DIP-8_W7.62mm"
 		(layer "F.Cu")
 		(uuid "c0018175-a365-46cb-8d55-4f4e9082d3d6")
-		(at 87.335 64.2175)
+		(at 79.99 60.19)
 		(descr "8-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U1"
@@ -8283,7 +8283,7 @@
 			)
 		)
 		(point
-			(at 91.145 68.0275)
+			(at 83.8 64)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "5d863547-e344-429a-ab97-850060bc31d7")
@@ -9924,7 +9924,7 @@
 	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical"
 		(layer "F.Cu")
 		(uuid "de353f8c-71cf-4d7c-a214-074fb2507919")
-		(at 97.2 56.28)
+		(at 97.26 52.54)
 		(descr "Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf")
 		(tags "Potentiometer vertical Bourns 3386P")
 		(property "Reference" "RV1"
