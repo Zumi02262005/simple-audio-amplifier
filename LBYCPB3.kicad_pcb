@@ -11571,6 +11571,19 @@
 		(layer "Edge.Cuts")
 		(uuid "85f9068e-4d05-4524-b032-51aec46deb37")
 	)
+	(gr_text "Pajarillo, Juan\nTolentino, Wayne\nCudo, Kirsten\nOng, Kristin"
+		(at 137 66 0)
+		(layer "B.Cu")
+		(uuid "a2a6679f-ef66-4abd-81b5-8ef3e086adb5")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(segment
 		(start 79.99 67.81)
 		(end 79.99 70.21)
