@@ -8038,7 +8038,7 @@
 	(footprint "Package_DIP:DIP-8_W7.62mm"
 		(layer "F.Cu")
 		(uuid "c0018175-a365-46cb-8d55-4f4e9082d3d6")
-		(at 123.055 102.045)
+		(at 144.19 88.99)
 		(descr "8-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U1"
@@ -8243,7 +8243,7 @@
 			)
 		)
 		(point
-			(at 126.865 105.855)
+			(at 148 92.8)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "5d863547-e344-429a-ab97-850060bc31d7")
