@@ -7270,7 +7270,7 @@
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "BT1"
-			(at 2.54 -6.32 0)
+			(at 2.6 -6.6 0)
 			(layer "F.SilkS")
 			(uuid "83df3901-ae22-41a9-abad-b6b58e4f0a8e")
 			(effects
@@ -10641,7 +10641,7 @@
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J1"
-			(at 0 -2.38 0)
+			(at 0 -2.6 0)
 			(layer "F.SilkS")
 			(uuid "e98da88d-8463-4ac2-a22d-32f3ea9ff07a")
 			(effects
