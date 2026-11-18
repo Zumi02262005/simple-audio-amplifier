@@ -11577,8 +11577,8 @@
 		(uuid "a2a6679f-ef66-4abd-81b5-8ef3e086adb5")
 		(effects
 			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
+				(size 1.5 0.75)
+				(thickness 0.1875)
 				(bold yes)
 			)
 			(justify left bottom mirror)
