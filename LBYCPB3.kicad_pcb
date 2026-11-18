@@ -4754,13 +4754,13 @@
 	(footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "7c4645b9-6805-47a0-91cd-3de2175649a2")
-		(at 96.4 83 90)
+		(at 95.4 83.9 90)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C4"
 			(at 2.5 -2.5 90)
 			(layer "F.SilkS")
-			(uuid "809ae2bc-37a5-4b6e-a20b-331ebb105695")
+			(uuid "4827a5e9-4210-42d4-b44a-73241a2970e2")
 			(effects
 				(font
 					(size 1 1)
@@ -4771,7 +4771,7 @@
 		(property "Value" "47nF"
 			(at 2.5 2.5 90)
 			(layer "F.Fab")
-			(uuid "ea733dc2-bbb3-4aa2-9c3e-38cfeb3a3b64")
+			(uuid "2847f8bb-5e99-4b48-b8e3-00cae74e17a1")
 			(effects
 				(font
 					(size 1 1)
@@ -4783,7 +4783,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a04a3782-fce7-4a2b-b3b8-a13d34f84abc")
+			(uuid "ca142491-27ac-474a-b316-51c2317d0d51")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4794,7 +4794,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f2d1fc4f-238f-4613-80df-9f6fe6a5bf6e")
+			(uuid "86750578-35aa-4a96-9e93-0ec796fd9395")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10917,6 +10917,16 @@
 		(uuid "31dd7154-f9e9-49ad-a914-1fbdccd881d2")
 	)
 	(gr_line
+		(start 115.8 89.8)
+		(end 57.8 89.8)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "04e0d6b3-0dc5-47ba-98ae-9999dc9752ea")
+	)
+	(gr_line
 		(start 118.8 45.8)
 		(end 118.8 86.8)
 		(stroke
@@ -10936,16 +10946,6 @@
 		)
 		(layer "Edge.Cuts")
 		(uuid "2f409ea4-a1c6-455f-8287-e8389b858c2f")
-	)
-	(gr_line
-		(start 119.4 82.1)
-		(end 61.4 82.1)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "04e0d6b3-0dc5-47ba-98ae-9999dc9752ea")
 	)
 	(segment
 		(start 57.2 76.8)
