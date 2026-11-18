@@ -1508,6 +1508,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Mono"
+		(exclude_from_sim no)
+		(at 84.836 51.816 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b85174de-b401-4bdd-9982-9ac3a1c7de30")
+	)
+	(text "Stereo"
+		(exclude_from_sim no)
+		(at 57.658 53.848 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ef1a8080-304f-44a0-af19-3a3ae973435b")
+	)
 	(junction
 		(at 106.68 36.83)
 		(diameter 0)
