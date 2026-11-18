@@ -2033,16 +2033,16 @@
 		(uuid "19c585cf-0a20-4936-8cde-bcad50913760")
 	)
 	(junction
+		(at 100.33 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "29658ffb-5ce3-4931-88ba-e117ed41a99e")
+	)
+	(junction
 		(at 127 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "395aca3d-1cf8-46b3-8a3a-31b88e20c900")
-	)
-	(junction
-		(at 100.33 34.29)
-		(diameter 0)
-		(color 255 0 6 1)
-		(uuid "40cb33ba-aec4-4900-bc23-546db63b5ec4")
 	)
 	(no_connect
 		(at 107.95 78.74)
@@ -2352,7 +2352,7 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 31.75) (xy 100.33 34.29)
+			(xy 100.33 27.94) (xy 100.33 34.29)
 		)
 		(stroke
 			(width 0)
@@ -3602,7 +3602,7 @@
 	)
 	(symbol
 		(lib_id "power:VCC")
-		(at 100.33 31.75 0)
+		(at 100.33 27.94 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3613,7 +3613,7 @@
 		(fields_autoplaced yes)
 		(uuid "6dac78d8-23e8-4dc9-8530-8cb754016f80")
 		(property "Reference" "#PWR07"
-			(at 100.33 35.56 0)
+			(at 100.33 31.75 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3624,7 +3624,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 100.33 26.67 0)
+			(at 100.33 22.86 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3634,7 +3634,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 100.33 31.75 0)
+			(at 100.33 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3645,7 +3645,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 100.33 31.75 0)
+			(at 100.33 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3656,7 +3656,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 100.33 31.75 0)
+			(at 100.33 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
