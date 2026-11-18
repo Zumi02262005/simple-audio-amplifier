@@ -2174,7 +2174,7 @@
 	(junction
 		(at 96.52 34.29)
 		(diameter 0)
-		(color 0 0 0 0)
+		(color 255 0 6 1)
 		(uuid "c2638d43-a58c-4067-82f0-7af685890669")
 	)
 	(no_connect
@@ -2400,6 +2400,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 255 0 6 1)
 		)
 		(uuid "6d950e4b-1dd8-43c1-9ebe-e319b0c89e09")
 	)
