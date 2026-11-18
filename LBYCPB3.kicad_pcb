@@ -9924,7 +9924,7 @@
 	(footprint "Potentiometer_THT:Potentiometer_Bourns_3386P_Vertical"
 		(layer "F.Cu")
 		(uuid "de353f8c-71cf-4d7c-a214-074fb2507919")
-		(at 164 93.88)
+		(at 164.26 95.94)
 		(descr "Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf")
 		(tags "Potentiometer vertical Bourns 3386P")
 		(property "Reference" "RV1"
