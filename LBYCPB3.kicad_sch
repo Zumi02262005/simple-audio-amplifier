@@ -2008,7 +2008,7 @@
 	)
 	(text "Mono"
 		(exclude_from_sim no)
-		(at 78.486 49.276 0)
+		(at 76.962 52.324 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4109,7 +4109,7 @@
 		(dnp no)
 		(uuid "b8043515-f57d-4f58-ace0-7633f052c894")
 		(property "Reference" "RV2"
-			(at 87.63 52.578 0)
+			(at 88.138 52.578 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4120,7 +4120,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 87.63 54.864 0)
+			(at 87.884 54.864 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
