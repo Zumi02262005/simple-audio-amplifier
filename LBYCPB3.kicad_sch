@@ -695,7 +695,7 @@
 				)
 			)
 		)
-		(property "Value" "Ground"
+		(property "Value" "GND"
 			(at 38.735 64.77 0)
 			(show_name no)
 			(do_not_autoplace no)
