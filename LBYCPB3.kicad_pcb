@@ -215,17 +215,6 @@
 			(layer "F.CrtYd")
 			(uuid "20c5d8e0-005e-4b8b-a6c2-c798b3bdd894")
 		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "c5bd5354-d37e-4649-953d-2c4cd0e73dfe")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
 			(size 2 2)
@@ -4128,6 +4117,7 @@
 		(property "Reference" "REF**"
 			(at 0.6 -3.4 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3cf87c2f-de16-4353-b235-d183ebf56e46")
 			(effects
 				(font
@@ -4204,17 +4194,6 @@
 			(fill no)
 			(layer "F.CrtYd")
 			(uuid "1f0fdce3-cd88-4620-889c-e95554abb1b0")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "34fbdfa0-20a4-4aad-b17b-296d0f6ecd5a")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
 		)
 		(pad "" np_thru_hole circle
 			(at 0 0)
