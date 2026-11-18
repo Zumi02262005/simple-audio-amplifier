@@ -2162,8 +2162,8 @@
 	(junction
 		(at 63.5 25.4)
 		(diameter 0)
-		(color 255 0 6 1)
-		(uuid "ab13a980-84eb-4d38-83ce-e05863100f16")
+		(color 0 0 0 0)
+		(uuid "ac41bf2f-0dea-4949-8e39-ebf7c05d7786")
 	)
 	(no_connect
 		(at 107.95 78.74)
@@ -2463,7 +2463,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 21.59) (xy 63.5 25.4)
+			(xy 63.5 19.05) (xy 63.5 25.4)
 		)
 		(stroke
 			(width 0)
@@ -4358,7 +4358,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 63.5 21.59 0)
+		(at 63.5 19.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4369,7 +4369,7 @@
 		(fields_autoplaced yes)
 		(uuid "c530b5ed-8fea-44e2-a4e9-290f74ec9f42")
 		(property "Reference" "#FLG01"
-			(at 63.5 19.685 0)
+			(at 63.5 17.145 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4380,7 +4380,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 63.5 16.51 0)
+			(at 63.5 13.97 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4390,7 +4390,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 63.5 21.59 0)
+			(at 63.5 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4401,7 +4401,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 21.59 0)
+			(at 63.5 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4412,7 +4412,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 63.5 21.59 0)
+			(at 63.5 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
