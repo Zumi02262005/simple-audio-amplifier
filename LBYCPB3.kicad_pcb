@@ -4163,7 +4163,7 @@
 	(footprint "Potentiometer_THT:Potentiometer_Alps_RK09K_Single_Vertical"
 		(layer "F.Cu")
 		(uuid "748f0967-c7f7-435b-b863-121b8e8cc29e")
-		(at 72.8 74.8 -90)
+		(at 75.6 74.6 -90)
 		(descr "113004U 1130A6S 11300DR 1130A8G 1130081 1130A5R 1130AP5 1130AST  D1130C3W D1130C1B D1130C3C D1130C2P Potentiometer, vertical, Alps RK09K Single, https://tech.alpsalpine.com/prod/e/pdf/potentiometer/rotarypotentiometers/rk09k/rk09k.pdf")
 		(tags "Potentiometer vertical Alps RK09K RK09D Single Snapin")
 		(property "Reference" "RV2"
