@@ -130,13 +130,13 @@
 	(footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "04789a39-2d71-4946-b9d3-fad8bdd6e1d8")
-		(at 89.6 36.2 -90)
+		(at 100.9 63.4)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C6"
-			(at 2.5 -2.5 90)
+			(at 2.5 -2.5 0)
 			(layer "F.SilkS")
-			(uuid "933ed244-3787-42eb-9f42-edf0d107f5d4")
+			(uuid "7d62fc36-2f3f-4dbf-b059-442bea9121a7")
 			(effects
 				(font
 					(size 1 1)
@@ -145,9 +145,9 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 2.5 2.5 90)
+			(at 2.5 2.5 0)
 			(layer "F.Fab")
-			(uuid "da3ff079-6e1c-4906-a49f-1efc46344dc7")
+			(uuid "051f7d3d-f0f5-4cd3-b275-5b17493416fe")
 			(effects
 				(font
 					(size 1 1)
@@ -156,10 +156,10 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "12440984-c06f-4f92-9c60-dab4873ef819")
+			(uuid "ea3029ec-59de-4cc0-a493-bf78b1afa836")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -167,10 +167,10 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4d9331e9-e18f-4f0e-aa27-b4b6156d1fb0")
+			(uuid "15de7bb5-1581-4932-9218-92fd28a7df90")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -178,7 +178,7 @@
 			)
 		)
 		(property "KiLib_Generator" "capacitor/THT/other"
-			(at 0 0 90)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "443dd29a-a005-4070-8574-184809837733")
@@ -202,34 +202,14 @@
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start -0.12 1.37)
-			(end -0.12 1.033)
+			(start -0.12 -1.37)
+			(end 5.12 -1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6b12d75b-127e-4c18-a556-dddd8323009c")
-		)
-		(fp_line
-			(start 5.12 1.37)
-			(end -0.12 1.37)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "be812ee9-92d2-45f4-b7e3-ca58fe82717f")
-		)
-		(fp_line
-			(start 5.12 1.033)
-			(end 5.12 1.37)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "d3345c40-a2b2-48de-99e1-a8a7b920b2e0")
+			(uuid "ae234591-c37b-48dd-ad1f-2f3ead78f2ed")
 		)
 		(fp_line
 			(start -0.12 -1.033)
@@ -242,14 +222,14 @@
 			(uuid "440d18e9-6a40-48f0-a4cd-872e96f47d92")
 		)
 		(fp_line
-			(start -0.12 -1.37)
-			(end 5.12 -1.37)
+			(start -0.12 1.37)
+			(end -0.12 1.033)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ae234591-c37b-48dd-ad1f-2f3ead78f2ed")
+			(uuid "6b12d75b-127e-4c18-a556-dddd8323009c")
 		)
 		(fp_line
 			(start 5.12 -1.37)
@@ -260,6 +240,26 @@
 			)
 			(layer "F.SilkS")
 			(uuid "2b7a877f-10e3-4d5d-a745-be3e379f9d0c")
+		)
+		(fp_line
+			(start 5.12 1.033)
+			(end 5.12 1.37)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "d3345c40-a2b2-48de-99e1-a8a7b920b2e0")
+		)
+		(fp_line
+			(start 5.12 1.37)
+			(end -0.12 1.37)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "be812ee9-92d2-45f4-b7e3-ca58fe82717f")
 		)
 		(fp_rect
 			(start -1.05 -1.5)
@@ -284,7 +284,7 @@
 			(uuid "890bff9b-0a88-43e7-9bd2-fd21988ad9f0")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.5 0 90)
+			(at 2.5 0 0)
 			(layer "F.Fab")
 			(uuid "fb1e1129-7491-46cd-b262-8ffb279492c3")
 			(effects
@@ -295,7 +295,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 270)
+			(at 0 0)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -305,7 +305,7 @@
 			(uuid "cc059d61-a783-493f-aa3c-ffd4f999e2d7")
 		)
 		(pad "2" thru_hole circle
-			(at 5 0 270)
+			(at 5 0)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -684,7 +684,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "2ed523d0-fd84-4c18-afc3-5b1a809d21b4")
-		(at 116.2 45.1 90)
+		(at 113.4 46.9 90)
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C1"
