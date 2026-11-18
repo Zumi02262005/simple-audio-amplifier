@@ -146,6 +146,36 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 64.77 58.42) (xy 43.18 58.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "887d22ed-47db-45aa-8394-fa8faa7942eb")
+	)
+	(wire
+		(pts
+			(xy 43.18 48.26) (xy 64.77 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9a58463a-7562-41aa-a72c-69857b2e1feb")
+	)
+	(wire
+		(pts
+			(xy 43.18 58.42) (xy 43.18 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b07c44d2-5b15-4d32-8595-dedc4d0ebd19")
+	)
 	(symbol
 		(lib_id "Device:R")
 		(at 68.58 48.26 90)
