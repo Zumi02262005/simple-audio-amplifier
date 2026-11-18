@@ -2198,6 +2198,7 @@
 		(stroke
 			(width 0)
 			(type default)
+			(color 26 0 255 1)
 		)
 		(uuid "04f9e74f-b563-4ebc-be78-d235d0b85788")
 	)
