@@ -2560,7 +2560,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized"
+		(property "Value" "100uF"
 			(at 100.33 38.4809 0)
 			(show_name no)
 			(do_not_autoplace no)
