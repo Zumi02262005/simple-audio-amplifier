@@ -11579,26 +11579,5 @@
 		(net "Net-(U1-+)")
 		(uuid "e4feb342-46d6-4a79-929a-e175e00d468f")
 	)
-	(zone
-		(net "GND")
-		(layer "B.Cu")
-		(uuid "f4740db4-2e5d-44a3-a64f-0c9c20a6dd54")
-		(name "Copper Fill")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0.5)
-		)
-		(min_thickness 0.25)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-			(island_removal_mode 0)
-		)
-		(polygon
-			(pts
-				(xy 120 42.6) (xy 54.8 42.8) (xy 54.8 89.8) (xy 118.8 89.8) (xy 118.8 42.6) (xy 119.8 42.6) (xy 119.8 43)
-			)
-		)
-	)
 	(embedded_fonts no)
 )
