@@ -328,7 +328,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x01_Pin"
+		(property "Value" "Left Audio"
 			(at 38.735 45.72 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -405,7 +405,7 @@
 				)
 			)
 		)
-		(property "Value" "Conn_01x01_Pin"
+		(property "Value" "Right Audio"
 			(at 38.735 55.88 0)
 			(show_name no)
 			(do_not_autoplace no)
