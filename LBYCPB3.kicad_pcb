@@ -11592,6 +11592,8 @@
 		(fill
 			(thermal_gap 0.5)
 			(thermal_bridge_width 0.5)
+			(smoothing fillet)
+			(radius 3)
 			(island_removal_mode 0)
 		)
 		(polygon
