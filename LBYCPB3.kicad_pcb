@@ -4524,13 +4524,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "77117276-38c5-415a-ba3f-c535fa36c2a0")
-		(at 103.8 97.6)
+		(at 103.8 100)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J2"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "28c2644e-587b-4855-ac30-813cd9a9eb06")
+			(uuid "28caf136-0c75-4a97-9d76-4e8a4b8928ba")
 			(effects
 				(font
 					(size 1 1)
@@ -4541,7 +4541,7 @@
 		(property "Value" "Right Audio"
 			(at 0 2.38 0)
 			(layer "F.Fab")
-			(uuid "a0be99b6-a4c5-4052-b046-e4addec57113")
+			(uuid "7f77165d-42dc-49bf-a652-2e54363125cf")
 			(effects
 				(font
 					(size 1 1)
@@ -4553,7 +4553,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "763a2476-5b34-45c6-adaa-a8c7096a2c4b")
+			(uuid "c8ef7061-24fa-4e56-a71b-c1648adac86b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4564,7 +4564,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8fb29b9f-484c-4a45-a121-8d180f942cf7")
+			(uuid "f868c765-236e-4676-804e-a2f8c7e48c0f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7266,7 +7266,7 @@
 	(footprint "TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2-5.08_1x02_P5.08mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "950d37c7-0268-45fa-bcfd-e17b11ffcd3e")
-		(at 117.455 86.5725)
+		(at 114.255 85.7725)
 		(descr "Terminal Block Phoenix MKDS-1,5-2-5.08, 2 pins, pitch 5.08mm, size 10.2x9.8mm, drill diameter 1.3mm, pad diameter 2.6mm, http://www.farnell.com/datasheets/100425.pdf")
 		(tags "THT Terminal Block Phoenix MKDS-1,5-2-5.08 pitch 5.08mm size 10.2x9.8mm drill 1.3mm pad 2.6mm")
 		(property "Reference" "BT1"
@@ -10407,13 +10407,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f7e0fdf7-65c9-43ca-bceb-8552070687c8")
-		(at 103.8 103.8)
+		(at 103.8 106.2)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J3"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "2d73f698-8090-4b11-bf76-61245c32f989")
+			(uuid "bed962e8-efe6-40a4-a178-4a7a5a924bc6")
 			(effects
 				(font
 					(size 1 1)
@@ -10424,7 +10424,7 @@
 		(property "Value" "GND"
 			(at 0 2.38 0)
 			(layer "F.Fab")
-			(uuid "e28eb788-7344-4018-a7c0-16d0a92e8620")
+			(uuid "450b9d2f-7956-4410-9428-47e04f02879e")
 			(effects
 				(font
 					(size 1 1)
@@ -10436,7 +10436,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8ad5107a-1308-46a3-b071-26c6e421c547")
+			(uuid "47f86be1-ae5d-4e12-a4f0-2aceb3cf3327")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10447,7 +10447,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e388d9f-f560-4c7c-8bae-45779da8dc2f")
+			(uuid "97fb8a9b-3e2c-449d-bb3a-3708456f4d16")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10637,13 +10637,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "fac93649-2c0a-4dd3-b183-271dfd19d357")
-		(at 104 91.4)
+		(at 104 93.8)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J1"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "3c51ab81-e766-47fa-8ffb-d41e9bcfee14")
+			(uuid "02363229-07c1-41a3-820b-96d8b780aced")
 			(effects
 				(font
 					(size 1 1)
@@ -10654,7 +10654,7 @@
 		(property "Value" "Left Audio"
 			(at 0 2.38 0)
 			(layer "F.Fab")
-			(uuid "f1aa3a13-4bd9-489a-b558-7ff7e1e717dd")
+			(uuid "71feac67-e085-491c-93cc-20c6702cef24")
 			(effects
 				(font
 					(size 1 1)
@@ -10666,7 +10666,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a40fdb7f-879a-4b10-bff0-9db9eb94eb8a")
+			(uuid "7fe8d597-3d16-4676-8240-9028ae06a002")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10677,7 +10677,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "177b5d52-b276-4d00-a109-0cdd921f4427")
+			(uuid "0617303c-18c6-4c25-acc0-32c5dadff2a2")
 			(effects
 				(font
 					(size 1.27 1.27)
