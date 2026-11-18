@@ -4679,7 +4679,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 52.07 33.02 0)
+		(at 52.07 35.56 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4690,16 +4690,6 @@
 		(fields_autoplaced yes)
 		(uuid "8cd5f184-0cd6-423f-9be3-9b4d967c6aca")
 		(property "Reference" "SW1"
-			(at 52.07 24.13 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_SPDT"
 			(at 52.07 26.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4709,8 +4699,18 @@
 				)
 			)
 		)
+		(property "Value" "SW_SPDT"
+			(at 52.07 29.21 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" ""
-			(at 52.07 33.02 0)
+			(at 52.07 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4721,7 +4721,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 40.64 0)
+			(at 52.07 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4732,7 +4732,7 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
-			(at 52.07 33.02 0)
+			(at 52.07 35.56 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
