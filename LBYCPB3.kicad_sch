@@ -2526,12 +2526,6 @@
 		(uuid "9aa21144-e338-43be-8e7d-0eabcbbe02ce")
 	)
 	(junction
-		(at 41.91 27.94)
-		(diameter 0)
-		(color 255 0 13 1)
-		(uuid "ac41bf2f-0dea-4949-8e39-ebf7c05d7786")
-	)
-	(junction
 		(at 95.25 36.83)
 		(diameter 0)
 		(color 255 0 6 1)
@@ -2709,17 +2703,6 @@
 			(type default)
 		)
 		(uuid "53306489-5b46-45b0-bcc4-7a25afe3f759")
-	)
-	(wire
-		(pts
-			(xy 41.91 27.94) (xy 64.77 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-			(color 255 0 6 1)
-		)
-		(uuid "59ab6786-5744-4d85-8899-64ca5363a72c")
 	)
 	(wire
 		(pts
@@ -2908,6 +2891,16 @@
 			(color 255 0 6 1)
 		)
 		(uuid "c7314d64-bfe1-4e2d-b554-5c83e04e9caf")
+	)
+	(wire
+		(pts
+			(xy 59.69 27.94) (xy 64.77 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfc0b27b-a3c1-4b6c-af82-2b33ec73e4f0")
 	)
 	(wire
 		(pts
@@ -4679,7 +4672,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 52.07 35.56 180)
+		(at 54.61 27.94 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4690,7 +4683,7 @@
 		(fields_autoplaced yes)
 		(uuid "8cd5f184-0cd6-423f-9be3-9b4d967c6aca")
 		(property "Reference" "SW1"
-			(at 52.07 26.67 0)
+			(at 54.61 19.05 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4700,7 +4693,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 52.07 29.21 0)
+			(at 54.61 21.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4710,7 +4703,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 52.07 35.56 0)
+			(at 54.61 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4721,7 +4714,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 52.07 27.94 0)
+			(at 54.61 20.32 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4732,7 +4725,7 @@
 			)
 		)
 		(property "Description" "Switch, single pole double throw"
-			(at 52.07 35.56 0)
+			(at 54.61 27.94 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
