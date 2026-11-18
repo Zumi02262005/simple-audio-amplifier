@@ -3577,10 +3577,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7559aa10-743e-4845-9683-2ccc4c174ed9")
 		(property "Reference" "C5"
-			(at 111.76 68.0338 0)
+			(at 112.776 68.072 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3591,7 +3590,7 @@
 			)
 		)
 		(property "Value" "C_Polarized_Small"
-			(at 111.76 70.5738 0)
+			(at 113.03 70.612 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
