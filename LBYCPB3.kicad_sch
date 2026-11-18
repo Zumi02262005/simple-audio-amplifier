@@ -1935,6 +1935,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 63.5) (xy 109.22 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ef86f53-3656-485a-9019-c7362ed544a4")
+	)
+	(wire
+		(pts
 			(xy 68.58 67.31) (xy 43.18 67.31)
 		)
 		(stroke
@@ -3334,7 +3344,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized_Small")
-		(at 109.22 69.85 180)
+		(at 109.22 69.85 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3345,25 +3355,25 @@
 		(fields_autoplaced yes)
 		(uuid "7559aa10-743e-4845-9683-2ccc4c174ed9")
 		(property "Reference" "C5"
-			(at 111.76 69.126 0)
+			(at 111.76 68.0338 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Value" "C_Polarized_Small"
-			(at 111.76 71.666 0)
+			(at 111.76 70.5738 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
