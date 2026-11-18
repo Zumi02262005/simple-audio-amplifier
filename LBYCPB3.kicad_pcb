@@ -4524,13 +4524,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "77117276-38c5-415a-ba3f-c535fa36c2a0")
-		(at 103.4 96.99)
+		(at 110.15 41.85)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J2"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "453ea0b9-d90b-4ae9-9a36-6c44766e5fb4")
+			(uuid "28c2644e-587b-4855-ac30-813cd9a9eb06")
 			(effects
 				(font
 					(size 1 1)
@@ -4541,7 +4541,7 @@
 		(property "Value" "Right Audio"
 			(at 0 2.38 0)
 			(layer "F.Fab")
-			(uuid "522d5f99-81cf-454d-be88-15ff723fbfbf")
+			(uuid "a0be99b6-a4c5-4052-b046-e4addec57113")
 			(effects
 				(font
 					(size 1 1)
@@ -4553,7 +4553,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "40fc6f1d-661b-4a4a-84ff-fae85b76f0a5")
+			(uuid "763a2476-5b34-45c6-adaa-a8c7096a2c4b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4564,7 +4564,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27706fea-0f00-47c5-9d4e-4ca652f65433")
+			(uuid "8fb29b9f-484c-4a45-a121-8d180f942cf7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9928,9 +9928,9 @@
 		(descr "Potentiometer, vertical, Bourns 3386P, https://www.bourns.com/pdfs/3386.pdf")
 		(tags "Potentiometer vertical Bourns 3386P")
 		(property "Reference" "RV1"
-			(at -6.765 46.585 0)
+			(at -0.015 -8.555 0)
 			(layer "F.SilkS")
-			(uuid "a4d16cdd-6697-4a09-ace4-dd536fd94096")
+			(uuid "8e188ade-6dc1-46a8-9837-7c06fa7babe0")
 			(effects
 				(font
 					(size 1 1)
@@ -9941,7 +9941,7 @@
 		(property "Value" "10k"
 			(at -0.015 3.475 0)
 			(layer "F.Fab")
-			(uuid "d03c189d-069b-4efa-a27a-75d881dbd6b5")
+			(uuid "f9e31011-3e55-4783-b258-f6fb7386d542")
 			(effects
 				(font
 					(size 1 1)
@@ -9953,7 +9953,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37e2161a-962d-45ec-a4d9-f4973f4126c2")
+			(uuid "7dbd5339-1fb4-4a3e-821f-35341a2a8dd5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9964,7 +9964,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23f1a62b-c338-4320-9441-8b7c9bf35ccf")
+			(uuid "43567432-b1e5-4da2-9f73-ca002d585c9c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10407,13 +10407,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "f7e0fdf7-65c9-43ca-bceb-8552070687c8")
-		(at 103.4 101.58)
+		(at 110.15 46.44)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J3"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "d61808a9-ebeb-4010-b475-942f6642e030")
+			(uuid "2d73f698-8090-4b11-bf76-61245c32f989")
 			(effects
 				(font
 					(size 1 1)
@@ -10424,7 +10424,7 @@
 		(property "Value" "GND"
 			(at 0 2.38 0)
 			(layer "F.Fab")
-			(uuid "29cdb380-e6bb-4c07-bdac-1e2308c033f6")
+			(uuid "e28eb788-7344-4018-a7c0-16d0a92e8620")
 			(effects
 				(font
 					(size 1 1)
@@ -10436,7 +10436,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5e332606-b102-4611-b556-d62d36a87b98")
+			(uuid "8ad5107a-1308-46a3-b071-26c6e421c547")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10447,7 +10447,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "39827b3d-d8bf-43a7-bdaf-694d8eb39f96")
+			(uuid "2e388d9f-f560-4c7c-8bae-45779da8dc2f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10637,13 +10637,13 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "fac93649-2c0a-4dd3-b183-271dfd19d357")
-		(at 103.4 92.4)
+		(at 110.15 37.26)
 		(descr "Through hole straight pin header, 1x01, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x01 2.54mm single row")
 		(property "Reference" "J1"
 			(at 0 -2.38 0)
 			(layer "F.SilkS")
-			(uuid "5d0c5721-5af6-4b11-8b57-10285ce16357")
+			(uuid "3c51ab81-e766-47fa-8ffb-d41e9bcfee14")
 			(effects
 				(font
 					(size 1 1)
@@ -10654,7 +10654,7 @@
 		(property "Value" "Left Audio"
 			(at 0 2.38 0)
 			(layer "F.Fab")
-			(uuid "9fe0e022-71ae-42c9-84ff-8b4243850e7e")
+			(uuid "f1aa3a13-4bd9-489a-b558-7ff7e1e717dd")
 			(effects
 				(font
 					(size 1 1)
@@ -10666,7 +10666,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "039d6591-6f18-46f4-9a49-1408ae3f7db1")
+			(uuid "a40fdb7f-879a-4b10-bff0-9db9eb94eb8a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10677,7 +10677,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5eb5c35a-37be-4e5a-8841-447382d5f561")
+			(uuid "177b5d52-b276-4d00-a109-0cdd921f4427")
 			(effects
 				(font
 					(size 1.27 1.27)
