@@ -1760,6 +1760,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:C_Polarized")
+		(at 143.51 55.88 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1cf9e779-6fa5-4d0d-830e-6b8554ec40ad")
+		(property "Reference" "C3"
+			(at 143.256 49.276 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "C_Polarized"
+			(at 143.764 51.308 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 147.32 54.9148 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Polarized capacitor"
+			(at 143.51 55.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "69777058-21d9-4cc5-b765-ea6f176efb13")
+		)
+		(pin "1"
+			(uuid "67638bab-dba8-4d82-b07d-9285065e124b")
+		)
+		(instances
+			(project "LBYCPB3"
+				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:Conn_01x01_Pin")
 		(at 38.1 58.42 0)
 		(unit 1)
