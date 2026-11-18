@@ -7685,7 +7685,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 2 3 0)
+			(at 2 3.3025 0)
 			(layer "F.Fab")
 			(uuid "90eb6735-8a9a-41b8-8ffc-be8c7322711e")
 			(effects
@@ -10863,17 +10863,6 @@
 				(xyz 0 0 0)
 			)
 		)
-	)
-	(gr_arc
-		(start 99 83.4)
-		(mid 100.464466 79.864466)
-		(end 104 78.4)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "d73da296-606e-43ec-8283-8997b6f06b7a")
 	)
 	(embedded_fonts no)
 )
