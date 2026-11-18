@@ -2985,7 +2985,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "R_Small"
+		(property "Value" "10R"
 			(at 135.89 63.4999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3067,7 +3067,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "47nF"
 			(at 135.89 72.3962 0)
 			(show_name no)
 			(do_not_autoplace no)
