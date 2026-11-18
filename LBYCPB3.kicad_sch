@@ -2038,12 +2038,6 @@
 		(color 255 0 6 1)
 		(uuid "40cb33ba-aec4-4900-bc23-546db63b5ec4")
 	)
-	(junction
-		(at 72.39 50.8)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8d52c640-57e5-42c4-a1ed-549308c23241")
-	)
 	(no_connect
 		(at 107.95 78.74)
 		(uuid "702f021b-f708-4478-a89a-9438327af8e0")
@@ -2197,16 +2191,6 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 50.8) (xy 95.25 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "698c73ce-090e-429f-811c-b069103f16b9")
-	)
-	(wire
-		(pts
 			(xy 66.04 45.72) (xy 72.39 45.72)
 		)
 		(stroke
@@ -2249,7 +2233,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 45.72) (xy 72.39 50.8)
+			(xy 72.39 45.72) (xy 72.39 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2297,16 +2281,6 @@
 			(type default)
 		)
 		(uuid "a5b52b80-5f45-43e9-99d0-e6275fa14b0d")
-	)
-	(wire
-		(pts
-			(xy 72.39 50.8) (xy 72.39 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b43d5d4c-78f7-44c9-8fe8-8d2cae9f9040")
 	)
 	(wire
 		(pts
@@ -4000,7 +3974,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Potentiometer_Small")
-		(at 80.01 54.61 90)
+		(at 81.28 55.88 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4011,27 +3985,29 @@
 		(fields_autoplaced yes)
 		(uuid "b8043515-f57d-4f58-ace0-7633f052c894")
 		(property "Reference" "RV2"
-			(at 80.01 57.15 90)
+			(at 78.74 54.6099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Value" "10k"
-			(at 80.01 59.69 90)
+			(at 78.74 57.1499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 80.01 54.61 0)
+			(at 81.28 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4042,7 +4018,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 80.01 54.61 0)
+			(at 81.28 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4053,7 +4029,7 @@
 			)
 		)
 		(property "Description" "Potentiometer"
-			(at 80.01 54.61 0)
+			(at 81.28 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4064,7 +4040,7 @@
 			)
 		)
 		(property "Sim.Device" "R"
-			(at 80.01 54.61 0)
+			(at 81.28 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4075,7 +4051,7 @@
 			)
 		)
 		(property "Sim.Type" "POT"
-			(at 80.01 54.61 0)
+			(at 81.28 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4086,7 +4062,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=r0 2=wiper 3=r1"
-			(at 80.01 54.61 0)
+			(at 81.28 55.88 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
