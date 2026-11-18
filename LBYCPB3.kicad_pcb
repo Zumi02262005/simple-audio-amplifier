@@ -11572,12 +11572,12 @@
 		(uuid "85f9068e-4d05-4524-b032-51aec46deb37")
 	)
 	(gr_text "Pajarillo, Juan\nTolentino, Wayne\nCudo, Kirsten\nOng, Kristin"
-		(at 137 66 0)
+		(at 120.6 63.8 0)
 		(layer "B.Cu")
 		(uuid "a2a6679f-ef66-4abd-81b5-8ef3e086adb5")
 		(effects
 			(font
-				(size 1.5 0.75)
+				(size 0.75 0.75)
 				(thickness 0.1875)
 				(bold yes)
 			)
