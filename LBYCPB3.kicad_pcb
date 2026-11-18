@@ -4861,6 +4861,7 @@
 		(property "Value" "MountingHole_2mm"
 			(at 0 2.95 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "aaecdf8b-777f-4f90-a502-dbecd9a7491e")
 			(effects
 				(font
