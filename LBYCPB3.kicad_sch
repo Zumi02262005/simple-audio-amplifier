@@ -2476,7 +2476,7 @@
 		)
 	)
 	(text "11/18/2026"
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(at 125.984 131.318 0)
 		(effects
 			(font
@@ -2486,7 +2486,7 @@
 		(uuid "2d1fd66a-dcb8-4c20-a167-d519ff0bb65a")
 	)
 	(text "Simple LM386 Audio Amplifier"
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(at 114.554 128.016 0)
 		(effects
 			(font
