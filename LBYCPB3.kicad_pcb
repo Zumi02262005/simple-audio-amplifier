@@ -136,6 +136,7 @@
 		(property "Reference" "REF**"
 			(at 0 -2.95 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "fce57d9b-13b2-4f53-b220-572062be1064")
 			(effects
 				(font
@@ -147,6 +148,7 @@
 		(property "Value" "MountingHole_2mm"
 			(at 0 2.95 0)
 			(layer "F.Fab")
+			(hide yes)
 			(uuid "057acee5-fe14-4b79-8140-392e4644cf00")
 			(effects
 				(font
