@@ -2475,6 +2475,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "11/18/2026"
+		(exclude_from_sim no)
+		(at 125.984 131.318 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2d1fd66a-dcb8-4c20-a167-d519ff0bb65a")
+	)
+	(text "Simple LM386 Audio Amplifier"
+		(exclude_from_sim no)
+		(at 114.554 128.016 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6718f24b-dfaf-4e3e-af4b-600db8ed10c0")
+	)
 	(text "Mono"
 		(exclude_from_sim no)
 		(at 75.692 54.864 0)
