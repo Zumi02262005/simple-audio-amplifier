@@ -3851,7 +3851,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 115.57 25.4 0)
+		(at 109.22 33.02 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3862,7 +3862,7 @@
 		(fields_autoplaced yes)
 		(uuid "6fe98a1e-d82a-48f9-af5a-893828cd8c61")
 		(property "Reference" "C6"
-			(at 118.11 24.1362 0)
+			(at 111.76 31.7562 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3873,7 +3873,7 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 118.11 26.6762 0)
+			(at 111.76 34.2962 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3884,7 +3884,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 25.4 0)
+			(at 109.22 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3895,7 +3895,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 25.4 0)
+			(at 109.22 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3906,7 +3906,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 115.57 25.4 0)
+			(at 109.22 33.02 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
