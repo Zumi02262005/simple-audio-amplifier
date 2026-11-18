@@ -684,7 +684,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "2ed523d0-fd84-4c18-afc3-5b1a809d21b4")
-		(at 142 89.3 90)
+		(at 150.6 95.700001 90)
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C1"
@@ -8078,7 +8078,7 @@
 	(footprint "Package_DIP:DIP-8_W7.62mm"
 		(layer "F.Cu")
 		(uuid "c0018175-a365-46cb-8d55-4f4e9082d3d6")
-		(at 141.98 96.38)
+		(at 150.58 102.780001)
 		(descr "8-lead though-hole mounted DIP package, row spacing 7.62mm (300 mils)")
 		(tags "THT DIP DIL PDIP 2.54mm 7.62mm 300mil")
 		(property "Reference" "U1"
@@ -8283,7 +8283,7 @@
 			)
 		)
 		(point
-			(at 145.79 100.19)
+			(at 154.39 106.590001)
 			(size 1.27)
 			(layer "F.Fab")
 			(uuid "5d863547-e344-429a-ab97-850060bc31d7")
@@ -8392,7 +8392,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "cd0b995b-a5d2-42a8-88bd-c28628c6cb49")
-		(at 142 80.182379 90)
+		(at 150.6 86.58238 90)
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C2"
