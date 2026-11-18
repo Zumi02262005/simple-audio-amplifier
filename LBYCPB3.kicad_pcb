@@ -10863,6 +10863,17 @@
 			)
 		)
 	)
+	(gr_rect
+		(start 53.6 37.6)
+		(end 122.6 91.6)
+		(stroke
+			(width 0.2)
+			(type default)
+		)
+		(fill no)
+		(layer "B.Cu")
+		(uuid "161b418e-9fd9-43e5-bab6-cb58048fef6b")
+	)
 	(segment
 		(start 79.99 67.81)
 		(end 79.99 70.21)
