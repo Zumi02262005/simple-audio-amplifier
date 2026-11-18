@@ -4754,7 +4754,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_THT:SW_Slide_SPDT_Straight_CK_OS102011MS2Q"
 			(at 54.61 27.94 0)
 			(hide yes)
 			(show_name no)
