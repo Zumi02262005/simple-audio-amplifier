@@ -2539,7 +2539,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Polarized")
-		(at 96.52 38.1 0)
+		(at 97.79 40.64 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2547,10 +2547,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a34c09ed-0fa9-4b10-9c22-e014c301c344")
 		(property "Reference" "C2"
-			(at 100.33 35.9409 0)
+			(at 91.186 38.354 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2560,8 +2559,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100uF"
-			(at 100.33 38.4809 0)
+		(property "Value" "100uF 25V"
+			(at 83.312 41.148 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2572,7 +2571,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 97.4852 41.91 0)
+			(at 98.7552 44.45 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2583,7 +2582,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 96.52 38.1 0)
+			(at 97.79 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2594,7 +2593,7 @@
 			)
 		)
 		(property "Description" "Polarized capacitor"
-			(at 96.52 38.1 0)
+			(at 97.79 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
