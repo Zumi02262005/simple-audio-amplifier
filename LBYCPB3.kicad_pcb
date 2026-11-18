@@ -330,7 +330,7 @@
 	(footprint "Button_Switch_THT:SW_PUSH_6mm"
 		(layer "F.Cu")
 		(uuid "088ee972-1a3a-47d6-a5ee-2a59061d2190")
-		(at 99.33 36.99)
+		(at 122.1 114)
 		(descr "Generic 6mm SW tactile push button")
 		(tags "tact sw push 6mm")
 		(property "Reference" "SW2"
