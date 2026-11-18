@@ -130,13 +130,13 @@
 	(footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "04789a39-2d71-4946-b9d3-fad8bdd6e1d8")
-		(at 93.9 70.8)
+		(at 91.4 67.8)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C6"
 			(at 2.5 -2.5 0)
 			(layer "F.SilkS")
-			(uuid "7d62fc36-2f3f-4dbf-b059-442bea9121a7")
+			(uuid "9d7b0f16-1c10-4410-aba5-69a93fd23602")
 			(effects
 				(font
 					(size 1 1)
@@ -147,7 +147,7 @@
 		(property "Value" "0.1uF"
 			(at 2.5 2.5 0)
 			(layer "F.Fab")
-			(uuid "051f7d3d-f0f5-4cd3-b275-5b17493416fe")
+			(uuid "b4042d1f-55ed-40ce-822a-586d7ab4cdc1")
 			(effects
 				(font
 					(size 1 1)
@@ -159,7 +159,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea3029ec-59de-4cc0-a493-bf78b1afa836")
+			(uuid "c6aa883e-98b7-47c3-9ee0-a94611f89b24")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -170,7 +170,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "15de7bb5-1581-4932-9218-92fd28a7df90")
+			(uuid "9ddb003e-1413-424b-b81c-2e74cec126c8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -684,11 +684,11 @@
 	(footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "2ed523d0-fd84-4c18-afc3-5b1a809d21b4")
-		(at 96.017621 62)
+		(at 94.5 60.8)
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C1"
-			(at 1.25 -4.4 0)
+			(at -3.3 0.6 90)
 			(layer "F.SilkS")
 			(uuid "37919021-46db-413f-8659-41eadc9bb9c2")
 			(effects
@@ -699,7 +699,7 @@
 			)
 		)
 		(property "Value" "100uF 25V"
-			(at 1.25 4.4 0)
+			(at 5.7 0.6 90)
 			(layer "F.Fab")
 			(uuid "8c7231ad-e9d9-46ba-b697-47151e26abe8")
 			(effects
@@ -8392,7 +8392,7 @@
 	(footprint "Capacitor_THT:CP_Radial_D6.3mm_P2.50mm"
 		(layer "F.Cu")
 		(uuid "cd0b995b-a5d2-42a8-88bd-c28628c6cb49")
-		(at 105.017621 56.2)
+		(at 105.217621 54.8)
 		(descr "CP, Radial series, Radial, pin pitch=2.50mm, diameter=6.3mm, height=7mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.50mm diameter 6.3mm height 7mm Electrolytic Capacitor")
 		(property "Reference" "C2"
