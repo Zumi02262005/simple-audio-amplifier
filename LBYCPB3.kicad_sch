@@ -1699,7 +1699,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Polarized_Small"
+		(property "Value" "100uF 25V"
 			(at 111.76 70.5738 0)
 			(show_name no)
 			(do_not_autoplace no)
