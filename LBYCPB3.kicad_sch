@@ -2160,6 +2160,12 @@
 		(uuid "395aca3d-1cf8-46b3-8a3a-31b88e20c900")
 	)
 	(junction
+		(at 76.2 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9aa21144-e338-43be-8e7d-0eabcbbe02ce")
+	)
+	(junction
 		(at 63.5 25.4)
 		(diameter 0)
 		(color 255 0 13 1)
@@ -2181,6 +2187,16 @@
 	)
 	(wire
 		(pts
+			(xy 76.2 25.4) (xy 76.2 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a1a204e-f58d-41a7-a777-5367f0abbbfe")
+	)
+	(wire
+		(pts
 			(xy 36.83 55.88) (xy 58.42 55.88)
 		)
 		(stroke
@@ -2188,6 +2204,17 @@
 			(type default)
 		)
 		(uuid "1af2071b-26e3-48dc-97ac-19afa67bf6bb")
+	)
+	(wire
+		(pts
+			(xy 76.2 25.4) (xy 78.74 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 7 0 255 1)
+		)
+		(uuid "28b87faf-054b-4cc1-b3c1-6cc5bfad19bd")
 	)
 	(wire
 		(pts
@@ -2422,7 +2449,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 25.4) (xy 78.74 25.4)
+			(xy 73.66 25.4) (xy 76.2 25.4)
 		)
 		(stroke
 			(width 0)
@@ -4585,6 +4612,84 @@
 			(project "LBYCPB3"
 				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
 					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:PWR_FLAG")
+		(at 76.2 30.48 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ddf4d5aa-780b-43b7-8ed9-4c8491826246")
+		(property "Reference" "#FLG02"
+			(at 76.2 32.385 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "PWR_FLAG"
+			(at 76.2 35.56 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 76.2 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 76.2 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Special symbol for telling ERC where power comes from"
+			(at 76.2 30.48 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d3333fc3-7dc4-41fd-8a14-20086dc15ee3")
+		)
+		(instances
+			(project "LBYCPB3"
+				(path "/18485fca-6be0-4e12-850f-149ddd300d9e"
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
