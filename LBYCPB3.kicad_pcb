@@ -4754,7 +4754,7 @@
 	(footprint "Capacitor_THT:C_Disc_D5.0mm_W2.5mm_P5.00mm"
 		(layer "F.Cu")
 		(uuid "7c4645b9-6805-47a0-91cd-3de2175649a2")
-		(at 108.2 84.4 90)
+		(at 108.4 79.4 -90)
 		(descr "C, Disc series, Radial, pin pitch=5.00mm, diameter*width=5*2.5mm^2, Capacitor, http://cdn-reichelt.de/documents/datenblatt/B300/DS_KERKO_TC.pdf")
 		(tags "C Disc series Radial pin pitch 5.00mm diameter 5mm width 2.5mm Capacitor")
 		(property "Reference" "C4"
@@ -4826,44 +4826,14 @@
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
-			(start 5.12 -1.37)
-			(end 5.12 -1.033)
+			(start -0.12 1.37)
+			(end -0.12 1.033)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3f1f5e65-9836-40d6-a4e7-c396eb51e082")
-		)
-		(fp_line
-			(start -0.12 -1.37)
-			(end 5.12 -1.37)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "664706aa-8c85-4b36-94e8-e6a987e1c2ea")
-		)
-		(fp_line
-			(start -0.12 -1.033)
-			(end -0.12 -1.37)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "53b0d63e-2bfc-4991-b5f7-938f42073163")
-		)
-		(fp_line
-			(start 5.12 1.033)
-			(end 5.12 1.37)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "faa40ea1-b408-4876-9083-cbf0cdf9573d")
+			(uuid "a7ee2d16-e452-4ef0-b5ff-b8af45c3f80a")
 		)
 		(fp_line
 			(start 5.12 1.37)
@@ -4876,14 +4846,44 @@
 			(uuid "2ae6201e-5de3-4537-8f93-ef29870a94c5")
 		)
 		(fp_line
-			(start -0.12 1.37)
-			(end -0.12 1.033)
+			(start 5.12 1.033)
+			(end 5.12 1.37)
 			(stroke
 				(width 0.12)
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a7ee2d16-e452-4ef0-b5ff-b8af45c3f80a")
+			(uuid "faa40ea1-b408-4876-9083-cbf0cdf9573d")
+		)
+		(fp_line
+			(start -0.12 -1.033)
+			(end -0.12 -1.37)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "53b0d63e-2bfc-4991-b5f7-938f42073163")
+		)
+		(fp_line
+			(start -0.12 -1.37)
+			(end 5.12 -1.37)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "664706aa-8c85-4b36-94e8-e6a987e1c2ea")
+		)
+		(fp_line
+			(start 5.12 -1.37)
+			(end 5.12 -1.033)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "F.SilkS")
+			(uuid "3f1f5e65-9836-40d6-a4e7-c396eb51e082")
 		)
 		(fp_rect
 			(start -1.05 -1.5)
@@ -4919,7 +4919,7 @@
 			)
 		)
 		(pad "1" thru_hole circle
-			(at 0 0 90)
+			(at 0 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
@@ -4929,7 +4929,7 @@
 			(uuid "708df1eb-30d0-43ab-a4a7-f3f7bd5cff37")
 		)
 		(pad "2" thru_hole circle
-			(at 5 0 90)
+			(at 5 0 270)
 			(size 1.6 1.6)
 			(drill 0.8)
 			(layers "*.Cu" "*.Mask")
